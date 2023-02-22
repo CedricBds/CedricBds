@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cedricbds" alt="cedricbds" /></a> </p>
 
-- 🔭 Je travaille actuellement sur **ServerFinder**
+- 🔭 Je travaille actuellement sur **[Power](https://www.powertweet.io/)**
 
 - 🌱 J'apprends actuellement **VueJs**
 
