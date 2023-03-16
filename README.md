@@ -10,7 +10,7 @@
 
 - 🌱 J'apprends actuellement **VueJs**
 
-- 👨‍💻 Mon portfolio [cedricbaudais.fr](http://cedricbaudais.fr)
+- 👨‍💻 Mon portfolio [cedricbaudais.fr](http://cedricbaudais.fr) (indisponible pour le moment)
 
 - 📫 Pour me contacter **contact@cedricbaudais.fr**
 
