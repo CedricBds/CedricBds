@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello 👋, Je m'appelle Cédric</h1>
-<h3 align="center">Je suis développeur web junior dans le sud de la france !</h3>
+<h3 align="center">Je suis développeur web  dans le sud de la france !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cedricbds&label=Profile%20views&color=0e75b6&style=flat" alt="cedricbds" /> </p>
 
