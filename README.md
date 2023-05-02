@@ -8,7 +8,7 @@
 
 - 🔭 Je travaille actuellement sur **[Power](https://www.powertweet.io/)**
 
-- 🌱 J'apprends actuellement **VueJs**
+- 🌱 J'apprends actuellement **Java**
 
 - 👨‍💻 Mon portfolio [cedricbaudais.fr](http://cedricbaudais.fr) (indisponible pour le moment)
 
